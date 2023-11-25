@@ -1,0 +1,44 @@
+.logout{
+	float:right;
+	margin: 10px 10px;
+	font-size: medium;
+}
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+ 
+}
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../image/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 0%;
+   
+}
+.menu{
+    line-height: 60px;
+}
+ul{
+    list-style-type: none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+a{
+    color: #ff6b81;
+    text-decoration: none;
+}
+a:hover{
+    color: #ff4757;
+}
